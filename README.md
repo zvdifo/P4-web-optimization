@@ -1,4 +1,4 @@
-### view live demonstraition site at http://zvdifo.github.io/sample-page
+### view live demonstraition site at http://zvdifo.github.io/index
 
 
 ## Website Performance Optimization portfolio project
